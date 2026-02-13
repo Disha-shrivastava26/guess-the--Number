@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![Guess the Number Game](ScreenshotguessNUMber.png)
+
 
 
 ## Overview
@@ -94,6 +94,6 @@ https://github.com/disha-shrivastava26
 LinkedIn:
 www.linkedin.com/in/disha-26-shrivastava
 
-9. Acknowledgment
+## Acknowledgment
 
 Built as part of my JavaScript learning journey and practice.
