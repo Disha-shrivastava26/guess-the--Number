@@ -9,16 +9,15 @@
 ![Guess the Number Game](ScreenshotguessNUMber.png)
 
 
-
-1. Overview
+## Overview
 
 A simple interactive browser game where users try to guess a randomly generated number between 1 and 20.
 The game gives instant feedback and tracks score and high score.
 
-Problem it solves:
+### Problem it solves:
 Helps practice JavaScript fundamentals like DOM manipulation, events, and logic building.
 
-Key features:
+## Key features:
 
 Random number generation
 Score tracking
@@ -26,11 +25,11 @@ High score system
 Reset game option
 Real-time feedback
 
-Target users:
+## Target users:
 Beginner JavaScript learners and anyone who enjoys small browser games.
 
 
-My Process
+## My Process
 
 Planning->
 Planned game logic and UI structure.
@@ -39,24 +38,24 @@ Design->
 Used simple UI with clear feedback messages.
 
 
-Development:
+## Development:
 Built using HTML, CSS, and JavaScript with DOM manipulation.
 
 
-Challenges faced:
+## Challenges faced:
 -> Handling user input correctly
 -> Managing score logic and maintain highscore
 
-How I solved them:
+## How I solved them:
 Used console debugging and step-by-step testing of logic.
 
-Built With / What I Learned
+## Built With / What I Learned
 
-Technologies used:
+### Technologies used:
 
 HTML,CSS,JavaScript,DOM manipulation, Event listeners
 
-Key learnings:
+## Key learnings:
 
 1.How to handle user events
 
@@ -67,7 +66,7 @@ Key learnings:
 
 
 
->> Useful Resources >>
+## Useful Resources >>
 
 Documentation:
 
@@ -77,13 +76,13 @@ Tutorials:
 
 JavaScript course projects
 
->> AI Collaboration >>
+## AI Collaboration >>
 
 How AI helped:
 Debugging code
 Understanding DOM logic
 
- Author
+## Author
 
 Disha Shrivastava
 IT Engineering Student
@@ -93,7 +92,7 @@ GitHub:
 https://github.com/disha-shrivastava26
 
 LinkedIn:
-(Add your link)
+www.linkedin.com/in/disha-26-shrivastava
 
 9. Acknowledgment
 
